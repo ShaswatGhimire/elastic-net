@@ -1,5 +1,5 @@
 # elastic-net
-A beginner friendly dive into Elastic net algorithm. 
+## A beginner friendly dive into Elastic net algorithm. 
 
 ### Dataset : Boston dataset from sklearn.datasets
 
